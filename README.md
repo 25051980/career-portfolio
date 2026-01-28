@@ -16,18 +16,18 @@ I’m currently transitioning into **Cyber Security / Data Science roles**, with
 ### 🔐 Cyber Security Portfolio  
 👉 https://github.com/25051980/Cyber-Security-Portfolio  
 
-Focus areas:
+**Focus areas:**
 - secure software development & secure coding practices  
 - networking and system security fundamentals  
 - SDLC, testing, and clean documentation  
-- academic and applied cyber security projects  
+- academic and applied cybersecurity projects  
 
 ---
 
 ### 📊 Data Science & Machine Learning Portfolio  
 👉 https://github.com/25051980/data-science-portfolio  
 
-Focus areas:
+**Focus areas:**
 - data analysis & visualisation  
 - machine learning pipelines  
 - real-world datasets  
@@ -35,7 +35,7 @@ Focus areas:
 
 ---
 
-## ⭐ Flagship Projects 
+## ⭐ Flagship Projects
 
 If you only explore **3–4 projects**, these best represent my skills and learning trajectory:
 
@@ -93,7 +93,7 @@ Secure coding practices, networking fundamentals, system security, software test
 EDA, feature engineering, supervised learning, model evaluation  
 
 **Professional Strengths:**  
-Clear documentation, analytical thinking, communication with technical and non-technical stakeholders
+Clear documentation, analytical thinking, communication with technical and non-technical stakeholders  
 
 ---
 
