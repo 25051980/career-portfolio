@@ -101,5 +101,3 @@ Clear documentation, analytical thinking, communication with technical and non-t
 
 - 💼 LinkedIn: https://www.linkedin.com/in/samuelwalforddatacience/  
 - 📂 GitHub: https://github.com/25051980  
-# career-portfolio
-Professional portfolio – Cyber Security &amp; Data Science
